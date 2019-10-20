@@ -1,0 +1,30 @@
+{
+  "mainFormSize": "430; 390",
+  "nbSpace": 8,
+  "objects": [
+    {
+      "ObjectName": "Button",
+      "dest": "mainForm",
+      "events": [
+        {
+          "name": "Click",
+          "dest": "buttonStart_Click"
+        }
+      ],
+      "params": [
+        {
+          "name": "Name",
+          "value": "buttonStart"
+        },
+        {
+          "name": "Location",
+          "value": "8;4"
+        },
+        {
+          "name": "Size",
+          "value": "40;120"
+        }
+      ]
+    }
+  ]
+}
